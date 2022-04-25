@@ -1,7 +1,7 @@
 # GPS - analysis
 =======================================
 
-### This repository includes 3 scripts:
+### This repository includes 2 scripts of interest:
 
 ### HMLcal.R - calculates the EnergyConsumtion (EC) for any acceleration
 Multiply EC by v to get Metabolic Load
